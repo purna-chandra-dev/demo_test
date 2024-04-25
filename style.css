@@ -48,7 +48,7 @@
 #img1{
     position: absolute;
     width: 70%;
-    opacity: 0.5;
+    
     top: -1rem;
     left: -1rem;
 }
@@ -58,7 +58,7 @@
     transform: rotate(180deg);
     bottom: 0;
     right: 0;
-    opacity: 0.5;
+    
 
     
 }
